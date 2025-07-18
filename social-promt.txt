@@ -1,0 +1,5 @@
+For each platform, return:
+1. An engaging caption optimized for that specific platform (do **not** include any hashtags in the caption).
+2. A relevant set of hashtags (minimum 5) for that platform, optimized for visibility and current trends.
+
+Make sure the captions follow the tone, policies, audience preferences, and content trends specific to each platform. If the same caption or hashtags are suitable for multiple platforms, that's fine, but prioritize optimizing each based on the unique characteristics of the platform.
