@@ -1,3 +1,45 @@
+Post title: {{ $json.title }}
+Post excerpt: {{ $json.excerpt }}
+
+Based on the title and excerpt above, generate the following for each of the following platforms: LinkedIn, Pinterest, Facebook, Instagram, Twitter (X), and Telegram channel.
+
+
+For each platform, return:
+1. An engaging caption optimized for that specific platform (do **not** include any hashtags in the caption).
+2. A relevant set of hashtags (minimum 5) for that platform, optimized for visibility and current trends.
+
+Make sure the captions follow the tone, policies, audience preferences, and content trends specific to each platform. If the same caption or hashtags are suitable for multiple platforms, that's fine, but prioritize optimizing each based on the unique characteristics of the platform.
+
+Return the output in the following JSON structure:
+
+{
+  "linkedin": {
+    "caption": "...",
+    "hashtags": "#..."
+  },
+  "pinterest": {
+    "caption": "...",
+    "hashtags": "#..."
+  },
+  "facebook": {
+    "caption": "...",
+    "hashtags": "#..."
+  },
+  "instagram": {
+    "caption": "...",
+    "hashtags": "#..."
+  },
+  "twitter": {
+    "caption": "...",
+    "hashtags": "#..."
+  },
+  "telegram": {
+    "caption": "...",
+    "hashtags": "#..."
+  }
+}
+
+
 For each platform, return:
 1. An engaging caption optimized for that specific platform (do **not** include any hashtags in the caption).
 2. A relevant set of hashtags (minimum 5) for that platform, optimized for visibility and current trends.
