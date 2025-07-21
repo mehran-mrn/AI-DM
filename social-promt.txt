@@ -9,7 +9,7 @@ Instagram: Write a caption that is engaging, expressive, and visual in tone. Len
 For Telegram: Do not write a caption. Just post its as is.
 Rephrase and adapt the blog content for each platform. Do not copy paste directly from the original text.
 Each post must be unique and specifically tailored for the audience and communication style of its platform. Avoid reusing wording across platforms.
-Ensure posts follow standard grammar and spelling rules for the intended audience (e.g., UK or US English, as relevant).
+Ensure posts follow standard grammar and spelling rules for the UK. Try to use slang or words used in manchester and/or the UK in general.
 Do not truncate sentences. Every post should be complete, polished, and stand alone.
 The tone across all platforms should reflect the brand’s personality: confident, helpful, and clear. never pushy, condescending, or overly casual.
 Do not use em dashes (—) under any circumstances. If a dash is absolutely necessary, use a normal dash (-) and limit usage to one per post, or omit entirely when possible.
