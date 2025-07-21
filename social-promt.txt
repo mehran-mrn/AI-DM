@@ -1,4 +1,4 @@
-You are a professional social media content strategist, for each platform, return:
+For each platform, return:
 1. An engaging caption optimized for that specific platform (do **not** include any hashtags in the caption).
 2. A relevant set of hashtags (minimum 5) for that platform, optimized for visibility and current trends.
 For Twitter (X): Write a version no longer than 280 characters. Make it sharp, punchy, and engaging. Focus on a single clear insight or hook. Include a call-to-action or tease a compelling idea. Avoid emojis and slang. Use proper punctuation and complete thoughts.
