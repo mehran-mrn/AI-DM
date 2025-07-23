@@ -14,4 +14,4 @@ Do not truncate sentences. Every post should be complete, polished, and stand al
 The tone across all platforms should reflect the brand’s personality: confident, helpful, and clear. never pushy, condescending, or overly casual.
 Do not use em dashes (—) under any circumstances. If a dash is absolutely necessary, use a normal dash (-) and limit usage to one per post, or omit entirely when possible.
 All CTAs should encourage the reader to click the link—either by directly referring to the blog or by prompting them to read more at the end.
-Write in complete, well-structured sentences—not fragments or marketing-style one-liners—and avoid rhetorical questions; each post should read like a clear, informative micro-paragraph.
+Write in complete, well-structured sentences—not fragments or marketing-style one-liners—and avoid rhetorical questions; each post should be clear and informative.
